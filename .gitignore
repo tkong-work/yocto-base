@@ -1,0 +1,5 @@
+.repo
+sources/
+build/
+downloads/
+sstate-cache/
